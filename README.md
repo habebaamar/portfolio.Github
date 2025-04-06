@@ -16,12 +16,17 @@
 - Created Interactive Dashboards and Reports Using Power Bi & Tableau. Leading To A 25% Faster Decision-Making Process of 25%.
 - Collaborated With Business Stakeholders to Understand Data-Driven Needs and Insights.
 ## Projects:
+
 ## HR Key Trends:
 - Job Satisfaction & Involvement - Employees who travel frequently report slightly higher job satisfaction.
 - Overtime Impact - Employees working overtime tend to have higher performance ratings.
 -  Attrition by Age - Employees under 25 have the highest attrition (40.96%), while those aged 35-44 show the lowest (10.56%).
 -  Salary & Education - Doctoral degree holders earn the highest average monthly income.
 -  Work-Life Balance & Overtime - Employees working overtime report a slightly lower work-life balance.
+  ## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+
 ## Dashboard
 ![52](https://github.com/user-attachments/assets/41d8d40e-def6-4fcb-af16-ab8b7fc19260)
 ![Capture](https://github.com/user-attachments/assets/8fd4b4b9-dbc7-4e71-ac3c-f45475c55660)
