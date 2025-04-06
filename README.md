@@ -16,17 +16,6 @@
 - Created Interactive Dashboards and Reports Using Power Bi & Tableau. Leading To A 25% Faster Decision-Making Process of 25%.
 - Collaborated With Business Stakeholders to Understand Data-Driven Needs and Insights.
 ## Projects:
-## Nike Key Trends:
-- Total sales by product and region, highlighting top performers. 
-- Seasonal trends in sales volumes and revenue.
--  Sales comparisons by method (online, outlet, in-store). 
-- Price impact on units sold and regional differences. 
-- Cross-factors like product type, region, and method showing
-## Dashboard
-
-![photo_5940375971997795134_y](https://github.com/user-attachments/assets/1ba77fa4-bf04-4cb0-8a83-375cfd69cfef)
-![photo_5940375971997795133_y](https://github.com/user-attachments/assets/adba4003-9fdd-4db3-8885-e87e5d9416d7)
-## Projects:
 ## HR Key Trends:
 - Job Satisfaction & Involvement - Employees who travel frequently report slightly higher job satisfaction.
 - Overtime Impact - Employees working overtime tend to have higher performance ratings.
@@ -39,4 +28,14 @@
 
 
 
+## Nike Key Trends:
+- Total sales by product and region, highlighting top performers. 
+- Seasonal trends in sales volumes and revenue.
+-  Sales comparisons by method (online, outlet, in-store). 
+- Price impact on units sold and regional differences. 
+- Cross-factors like product type, region, and method showing
+## Dashboard
+
+![photo_5940375971997795134_y](https://github.com/user-attachments/assets/1ba77fa4-bf04-4cb0-8a83-375cfd69cfef)
+![photo_5940375971997795133_y](https://github.com/user-attachments/assets/adba4003-9fdd-4db3-8885-e87e5d9416d7)
 
